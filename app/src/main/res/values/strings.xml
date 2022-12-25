@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExampleNavigation</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_name">Your name is %1$s</string>
+    <string name="your_age">You are %1$s years old</string>
+    <string name="submit">Submit</string>
+    <string name="what_s_your_name">What\'s your name?</string>
+    <string name="how_old_are_you">How old are you?</string>
+</resources>
